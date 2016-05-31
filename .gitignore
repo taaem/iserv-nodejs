@@ -1,0 +1,6 @@
+*.swp
+node_modules
+npm-debug.log
+.tern-project
+api.js
+.openshift

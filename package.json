@@ -1,0 +1,32 @@
+{
+  "name": "iserv",
+  "version": "1.0.0",
+  "description": "Node Server for getting the Stundenplan from Iserv",
+  "main": "main.js",
+  "dependencies": {
+    "htmlparser2": "^3.8.2",
+    "iconv-lite": "^0.4.10",
+    "q": "^1.3.0",
+    "request": "^2.55.0",
+    "restify": "^3.0.2",
+    "soupselect": "^0.2.0"
+  },
+  "engines": {
+    "node": "5.3.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/taaem/node-iserv"
+  },
+  "author": "taaem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taaem/node-iserv/issues"
+  },
+  "homepage": "https://github.com/taaem/node-iserv"
+}
